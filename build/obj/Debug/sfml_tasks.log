@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\omarg\OneDrive\Desktop\easing\src\main.cpp(60,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\easing\src\main.cpp(61,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  sfml_tasks.vcxproj -> C:\Users\omarg\OneDrive\Desktop\easing\bin\Debug\sfml_tasks.exe
